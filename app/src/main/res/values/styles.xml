@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="purple_style_title">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:enabled">false</item>
+        <item name="android:fallbackLineSpacing">false</item>
+        <item name="android:forceHasOverlappingRendering">false</item>
+        <item name="android:freezesText">false</item>
+        <item name="android:hapticFeedbackEnabled">false</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:selectAllOnFocus">false</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">@color/purple_200</item>
+        <item name="android:textSize">28sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="text_input_app_style">
+        <item name="android:layout_width">281dp</item>
+        <item name="android:layout_height">46dp</item>
+        <item name="android:layout_marginTop">68dp</item>
+        <item name="android:ems">10</item>
+        <item name="android:inputType">numberDecimal</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColorHighlight">#B682D6</item>
+    </style>
+</resources>

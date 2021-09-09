@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Imc_application</string>
+    <string name="app_name">Imc Application</string>
+    <string name="test_name">Lulu</string>
+    <string name="text_HelloWorld">Hello World</string>
+    <string name="button_text">Button</string>
+    <string name="radio_button_text">Select Here !</string>
+    <string name="imc_text">IMC</string>
+    <string name="txt_AltEmMet_L1">Altura em metros (ex.: 1.78)</string>
+    <string name="txt_PesEmKg_L1">Peso em Kg (ex.: 35.42)</string>
+    <string name="btn_Calc_L1">Calcular</string>
 </resources>
